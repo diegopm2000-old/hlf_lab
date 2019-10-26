@@ -1,0 +1,6 @@
+config
+crypto-config
+docker-compose.yml
+
+# Dependency directories
+chaincode/nodeJS/node_modules/
